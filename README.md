@@ -2,8 +2,8 @@
 
 **ShutterVista** is a sleek and modern web project that showcases an image gallery, exhibitions, events, store, and more. This project utilizes HTML, CSS, and Font Awesome icons to create an interactive and visually appealing user interface.
 
-![Project Image](./Asset/Project%20img%201.png)
 ![Project Image](./Asset/Project%20img%202.png)
+![Project Image](./Asset/Project%20img%201.png)
 
 ## Features
 
